@@ -1,10 +1,10 @@
 # Joystick-Hybrid-System-Animation
 
-Developped on Matlab 2017b
+Matlab 2017b
 
 by Minhuan, 2018
 
-NJUST
+gmh_njust@163.com
 
 ### Functions:
 1. A hybrid model of single quadrotor carrying a cable-suspended payload is built.
